@@ -1,0 +1,87 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Mircea\\ASE\\DOCUMENTE\\An II\\Semestrul II\\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\\Practice\\Imobiliara\\Imobiliara.csproj": {}
+  },
+  "projects": {
+    "D:\\Mircea\\ASE\\DOCUMENTE\\An II\\Semestrul II\\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\\Practice\\Imobiliara\\Imobiliara.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Mircea\\ASE\\DOCUMENTE\\An II\\Semestrul II\\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\\Practice\\Imobiliara\\Imobiliara.csproj",
+        "projectName": "Imobiliara",
+        "projectPath": "D:\\Mircea\\ASE\\DOCUMENTE\\An II\\Semestrul II\\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\\Practice\\Imobiliara\\Imobiliara.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\Mircea\\ASE\\DOCUMENTE\\An II\\Semestrul II\\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\\Practice\\Imobiliara\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Microsoft.Data.Sqlite.Core": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.28, )"
+            },
+            "Oracle.ManagedDataAccess.Core": {
+              "target": "Package",
+              "version": "[3.21.4, )"
+            },
+            "SQLitePCLRaw.bundle_winsqlite3": {
+              "target": "Package",
+              "version": "[2.0.7, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

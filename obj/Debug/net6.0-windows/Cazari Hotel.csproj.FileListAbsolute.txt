@@ -1,0 +1,78 @@
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\Imobiliara\bin\Debug\net6.0-windows\Cazari Hotel.exe
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\Imobiliara\bin\Debug\net6.0-windows\Cazari Hotel.deps.json
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\Imobiliara\bin\Debug\net6.0-windows\Cazari Hotel.runtimeconfig.json
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\Imobiliara\bin\Debug\net6.0-windows\Cazari Hotel.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\Imobiliara\bin\Debug\net6.0-windows\Cazari Hotel.pdb
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\Imobiliara\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\Imobiliara\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\Imobiliara\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\Imobiliara\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\Imobiliara\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\Imobiliara\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\Imobiliara\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\Imobiliara\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\Imobiliara\bin\Debug\net6.0-windows\ZstdNet.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\Imobiliara\bin\Debug\net6.0-windows\Oracle.ManagedDataAccess.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\Imobiliara\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\Imobiliara\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\Imobiliara\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.winsqlite3.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\Imobiliara\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\Imobiliara\bin\Debug\net6.0-windows\System.DirectoryServices.Protocols.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\Imobiliara\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\Imobiliara\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\Imobiliara\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\Imobiliara\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\Imobiliara\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\Imobiliara\bin\Debug\net6.0-windows\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\Imobiliara\bin\Debug\net6.0-windows\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\Imobiliara\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\Imobiliara\obj\Debug\net6.0-windows\Cazari Hotel.csproj.AssemblyReference.cache
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\Imobiliara\obj\Debug\net6.0-windows\Imobiliara.FormMainMenu.resources
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\Imobiliara\obj\Debug\net6.0-windows\Cazari Hotel.csproj.GenerateResource.cache
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\Imobiliara\obj\Debug\net6.0-windows\Cazari Hotel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\Imobiliara\obj\Debug\net6.0-windows\Cazari Hotel.AssemblyInfoInputs.cache
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\Imobiliara\obj\Debug\net6.0-windows\Cazari Hotel.AssemblyInfo.cs
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\Imobiliara\obj\Debug\net6.0-windows\Cazari Hotel.csproj.CoreCompileInputs.cache
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\Imobiliara\obj\Debug\net6.0-windows\Cazari Hotel.csproj.CopyComplete
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\Imobiliara\obj\Debug\net6.0-windows\Cazari Hotel.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\Imobiliara\obj\Debug\net6.0-windows\refint\Cazari Hotel.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\Imobiliara\obj\Debug\net6.0-windows\Cazari Hotel.pdb
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\Imobiliara\obj\Debug\net6.0-windows\Cazari Hotel.genruntimeconfig.cache
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\Imobiliara\obj\Debug\net6.0-windows\ref\Cazari Hotel.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\Imobiliara\obj\Debug\net6.0-windows\Imobiliara.CamereForm.resources
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Practice\Imobiliara\obj\Debug\net6.0-windows\Imobiliara.RezervariForm.resources
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Proiect\Cazari Hotel\obj\Debug\net6.0-windows\Cazari Hotel.csproj.AssemblyReference.cache
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Proiect\Cazari Hotel\obj\Debug\net6.0-windows\Imobiliara.CamereForm.resources
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Proiect\Cazari Hotel\obj\Debug\net6.0-windows\Imobiliara.EditFormCamera.resources
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Proiect\Cazari Hotel\obj\Debug\net6.0-windows\Imobiliara.EditFormRezervari.resources
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Proiect\Cazari Hotel\obj\Debug\net6.0-windows\Imobiliara.FormMainMenu.resources
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Proiect\Cazari Hotel\obj\Debug\net6.0-windows\Imobiliara.RezervariForm.resources
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Proiect\Cazari Hotel\obj\Debug\net6.0-windows\Imobiliara.ucState.resources
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Proiect\Cazari Hotel\obj\Debug\net6.0-windows\Cazari Hotel.csproj.GenerateResource.cache
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Proiect\Cazari Hotel\obj\Debug\net6.0-windows\Cazari Hotel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Proiect\Cazari Hotel\obj\Debug\net6.0-windows\Cazari Hotel.AssemblyInfoInputs.cache
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Proiect\Cazari Hotel\obj\Debug\net6.0-windows\Cazari Hotel.AssemblyInfo.cs
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Proiect\Cazari Hotel\obj\Debug\net6.0-windows\Cazari Hotel.csproj.CoreCompileInputs.cache
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Proiect\Cazari Hotel\bin\Debug\net6.0-windows\db.db
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Proiect\Cazari Hotel\bin\Debug\net6.0-windows\Cazari Hotel.exe
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Proiect\Cazari Hotel\bin\Debug\net6.0-windows\Cazari Hotel.deps.json
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Proiect\Cazari Hotel\bin\Debug\net6.0-windows\Cazari Hotel.runtimeconfig.json
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Proiect\Cazari Hotel\bin\Debug\net6.0-windows\Cazari Hotel.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Proiect\Cazari Hotel\bin\Debug\net6.0-windows\Cazari Hotel.pdb
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Proiect\Cazari Hotel\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Proiect\Cazari Hotel\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Proiect\Cazari Hotel\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Proiect\Cazari Hotel\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Proiect\Cazari Hotel\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Proiect\Cazari Hotel\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Proiect\Cazari Hotel\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Proiect\Cazari Hotel\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Proiect\Cazari Hotel\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Proiect\Cazari Hotel\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Proiect\Cazari Hotel\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Proiect\Cazari Hotel\obj\Debug\net6.0-windows\Cazari Hotel.csproj.CopyComplete
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Proiect\Cazari Hotel\obj\Debug\net6.0-windows\Cazari Hotel.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Proiect\Cazari Hotel\obj\Debug\net6.0-windows\refint\Cazari Hotel.dll
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Proiect\Cazari Hotel\obj\Debug\net6.0-windows\Cazari Hotel.pdb
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Proiect\Cazari Hotel\obj\Debug\net6.0-windows\Cazari Hotel.genruntimeconfig.cache
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul II\Programarea aplicatiilor Windows-COTFAS LIVIU ADRIAN\Proiect\Cazari Hotel\obj\Debug\net6.0-windows\ref\Cazari Hotel.dll

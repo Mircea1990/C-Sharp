@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="EditFormCamera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditFormRezervari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Rezervari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Main Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Camere.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ucState.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
